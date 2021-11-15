@@ -1,0 +1,12 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat; /* the image of the background will not be repeated */
+    /*background-position: 100% 10%; */
+    background-position: center center; /* background will be align in the center of the page*/
+    background-size: cover; /* the background will cover all the page */
+    background-attachment: fixed; /* the background will be fixed, will not move */
+}
+
+p {
+    color: rgb(34, 34, 34);
+}

@@ -1,0 +1,15 @@
+body { 
+    background: red;
+}
+
+h3 {
+    color: green;
+}
+
+.main-picture {
+    width: 300px;
+}
+
+#main-title {
+    color: yellow;
+}

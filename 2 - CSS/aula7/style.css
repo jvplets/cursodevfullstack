@@ -1,0 +1,16 @@
+body {
+    background: #dfdfdf;
+}
+
+p {
+    color: rgb(34, 34, 34);
+}
+
+.main-picture {
+    width: 200px;
+    
+    border: 2px solid #ffffff; /* shorthand */
+    border-radius: 50%; /* will make the border be like a circle */
+    margin: 30px; /* will make the margin of the picture, external spacing */
+    box-shadow: 0px 0px 10px #959595;
+}

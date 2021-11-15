@@ -1,0 +1,54 @@
+body {
+    background: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.main-picture {
+    width: 250px;
+    border: 2px solid #ffffff; /* shorthand */
+    border-radius: 50%; /* will make the border be like a circle */
+    margin: 30px 30px 0 30px; /* will make the margin of the picture, external spacing */
+    box-shadow: 0px 0px 10px #959595; /* will make the shadow of the picture */
+}
+
+
+h1 {
+    margin-top: 10px; 
+    margin-bottom: 0; /* reset the margin bottom */
+    letter-spacing: -1px; /* will decrease the spacing between letters*/
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 55px;
+}
+
+h2 {
+    margin-top: 0; /* reset the margin top */
+    font-style: italic; /* changes the font to italic */
+    color: rgb(73, 73, 73); /* changes the color of the text*/
+    font-weight: 100; /* changes the weight of the text */
+    letter-spacing: -1px; /* changes the spacing between the letters */
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 30px;
+}
+
+.github {
+    margin: 0 20px 0 20px;
+}
+
